@@ -19,8 +19,7 @@ This project analyzes customer-level banking data to answer four key questions:
 
 The analysis combines exploratory SQL analysis with predictive machine learning and an interactive Power BI dashboard.
 
-> **Dataset note:** This project uses a publicly available bank customer churn dataset. It is not Revolut customer data and does not represent Revolut's actual customer behavior.
-
+> **Dataset note:** This project uses a publicly available bank customer churn dataset.
 ---
 
 # 🎯 Business Objectives
